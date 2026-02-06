@@ -12,7 +12,7 @@ I'm a full-stack developer with a diverse technical background spanning web deve
 
 ## Tech Stack
 
-**Languages:** JavaScript · Python · PHP · HTML · CSS
+**Languages:** JavaScript · Python · PHP
 
 **Frontend:** React · HTML5 · CSS3 · Responsive Design
 
@@ -20,7 +20,7 @@ I'm a full-stack developer with a diverse technical background spanning web deve
 
 **Data & ML:** Python · Pandas · Scikit-learn · NumPy · Transformers · FAISS
 
-**Tools & Platforms:** Git · npm · Docker · Linux
+**Tools & Platforms:** Git · npm · Docker · Linux · Claude Code
 
 ## Let's Connect
 
